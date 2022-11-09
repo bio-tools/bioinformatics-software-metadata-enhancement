@@ -33,8 +33,8 @@ authors:
     orcid: 
     affiliation:
   - name: Magnus Palmblad
-    orcid: 
-    affiliation:
+    orcid: 0000-0002-5865-8994 
+    affiliation: 3
   - name: Matúš Kalaš
     orcid: 
     affiliation:
@@ -46,6 +46,8 @@ affiliations:
     index: 1
   - name: Institut Pasteur, Université Paris Cité, Bioinformatics and Biostatistics Hub, F-75015 Paris, France
     index: 2
+  - name: Leiden University Medical Center, Postbus 9600, 2300 RC Leiden, The Netherlands
+    index: 3
 date: 9 November 2022
 cito-bibliography: paper.bib
 event: BH22EU
