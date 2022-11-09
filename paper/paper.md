@@ -13,7 +13,7 @@ authors:
     affiliation: 1
   - name: Jennifer Rugaard Bregndahl Jensen
     orcid: 
-    affiliation: 2
+    affiliation: 
   - name: Hans Ienasescu
     orcid: 
     affiliation:
@@ -39,12 +39,12 @@ authors:
     orcid: 
     affiliation:
   - name: Hervé Ménager
-    orcid: 
-    affiliation:
+    orcid: 0000-0002-7552-1009
+    affiliation: 1, 2
 affiliations:
-  - name: First Affiliation
+  - name: Institut Français de Bioinformatique, Evry, F-91000, France
     index: 1
-  - name: Second Affiliation
+  - name: Institut Pasteur, Université Paris Cité, Bioinformatics and Biostatistics Hub, F-75015 Paris, France
     index: 2
 date: 9 November 2022
 cito-bibliography: paper.bib
