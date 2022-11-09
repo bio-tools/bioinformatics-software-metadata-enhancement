@@ -92,6 +92,12 @@ _a Venn diagram specifying which proportion of bio.tools is annotated with topic
 
 _an Upset diagram specifying which proportion of bio.tools is annotated with topics/operations/data/formats (can you do this with a Venn?)_
 
+## tool function signatures
+
+_a plot of the proportion of validated complete function signatures in bio.tools_
+
+_a listing of the top 10 most erroneous function signatures in bio.tools_
+
 # Perspectives
 
 ## Acknowledgements
