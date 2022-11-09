@@ -1,33 +1,63 @@
 ---
-title: 'BioHackEU22 Template'
-title_short: 'BioHackEU22 #26: unknown chemical substances'
+title: 'Scientific and technical enhancement of bioinformatics software metadata using the Tools Ecosystem open infrastructure'
+title_short: 'Enhancement of bioinformatics software metadata'
 tags:
-  - cheminformatics
-  - PubChem
-  - unknown chemical substances
+  - Software Metadata
+  - Ontologies
+  - Workflows
+  - Semantic Web
+  - Bioinformatics
 authors:
-  - name: First Author
+  - name: Lucie Lamothe
+    orcid: 
     affiliation: 1
-  - name: Last Author
-    orcid: 0000-0000-0000-0000
+  - name: Jennifer Rugaard Bregndahl Jensen
+    orcid: 
     affiliation: 2
+  - name: Hans Ienasescu
+    orcid: 
+    affiliation:
+  - name: Johan Gustafsson
+    orcid: 
+    affiliation:
+  - name: Alban Gaignard
+    orcid: 
+    affiliation:
+  - name: Dmitry Repchevski
+    orcid: 
+    affiliation:
+  - name: Radka Svobodová
+    orcid: 
+    affiliation:
+  - name: Tomas Racek
+    orcid: 
+    affiliation:
+  - name: Magnus Palmblad
+    orcid: 
+    affiliation:
+  - name: Matúš Kalaš
+    orcid: 
+    affiliation:
+  - name: Hervé Ménager
+    orcid: 
+    affiliation:
 affiliations:
   - name: First Affiliation
     index: 1
   - name: Second Affiliation
     index: 2
-date: 8 November 2022
+date: 9 November 2022
 cito-bibliography: paper.bib
 event: BH22EU
 biohackathon_name: "BioHackathon Europe 2022"
 biohackathon_url:   "https://biohackathon-europe.org/"
 biohackathon_location: "Paris, France, 2022"
-group: Project 26
+group: Project 25
 # URL to project git repo --- should contain the actual paper.md:
-git_url: https://github.com/biohackrxiv/publication-template
+git_url: https://github.com/bio-tools/bioinformatics-software-metadata-enhancement
 # This is the short authors description that is used at the
 # bottom of the generated paper (typically the first two authors):
-authors_short: First Author \emph{et al.}
+authors_short: Lucie Lamothe,  Jennifer Rugaard Bregndahl Jensen \emph{et al.}
 ---
 
 
