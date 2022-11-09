@@ -137,7 +137,6 @@ Possible CiTO typing annotation include:
 ...
 
 ## Acknowledgements
-
-...
+This work was funded/supported by ELIXIR, the research infrastructure for life-science data.
 
 ## References
