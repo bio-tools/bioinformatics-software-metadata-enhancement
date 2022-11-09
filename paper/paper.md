@@ -80,6 +80,18 @@ We present here in a first section the technical solution constructed to enable 
 
 # Tools Ecosystem metrics
 
+## EDAM usage in bio.tools
+
+_a barplot specifying which proportion of each EDAM section is used in bio.tools_
+
+_a barplot specifying which concepts of each section are most used for annotation in bio.tools_ 
+
+## bio.tools annotation completeness
+
+_a Venn diagram specifying which proportion of bio.tools is annotated with topics/operations/data/formats (can you do this with a Venn?)_
+
+_an Upset diagram specifying which proportion of bio.tools is annotated with topics/operations/data/formats (can you do this with a Venn?)_
+
 # Perspectives
 
 ## Acknowledgements
