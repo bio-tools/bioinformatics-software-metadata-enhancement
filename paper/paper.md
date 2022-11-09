@@ -74,58 +74,13 @@ It serves as the foundation for the sustainability of the diverse Tools Platform
 
 The goal of this project is to cross-compare and analyze the metadata centralized in the Tools Ecosystem to maintain high quality descriptions, together with the EDAM ontology [@usesDataFrom:10.1093/bioinformatics/btt113] [@usesDataFrom:jon_ison_2020_3899895] linked used for many annotations of these resources. In order to achieve these goals we need to design tools and processes that detect curation bottlenecks, perform rigorous data cross-validation and generate detailed reporting about potential issues and actionable items.
 
-Multiple strategies will be explored:
-- Comparison of the functional profiles of bio.tools entries with the corresponding semantic constraints defined in EDAM. Develop software to identify and report on inconsistencies between resources.
-- Comparison of the metadata defining a software tool with the knowledge extracted from publications that cite it, as well as the workflows that use it.
+We present here in a first section the technical solution constructed to enable these analyses, and in the second section the first results obtained.
 
-Beyond the immediate improvement of the metadata, we plan to use the results of these analyses in order to:
-- Automate relevant analyses using continuous integration mechanisms (extending previous and current work in EDAM and the Tools Ecosystem)
-- Improve curation user interfaces to reduce the risk of annotation errors.
-- Provide high quality functional tool profiles to be used in the context of workflow annotation
+# Technical architecture
 
-Another important goal is to provide onboarding of and support for scientific communities joining the Biohackathon.
+# Tools Ecosystem metrics
 
-Given the nature of the data we use in this project, we will be working in close collaboration with the project "Enhance RDM in Galaxy by utilizing RO-Crates", who will also be leveraging workflow and software metadata from the same resources.
-
-# Formatting
-
-This document use Markdown and you can look at [this tutorial](https://www.markdowntutorial.com/).
-
-## Subsection level 2
-
-Please keep sections to a maximum of only two levels.
-
-## Tables and figures
-
-Tables can be added in the following way, though alternatives are possible:
-
-Table 1
-| Header 1 | Header 2 |
-| -------- | -------- |
-| item 1 | item 2 |
-| item 3 | item 4 |
-
-Tables and figures should be given before they are mentioned in the main text.
-A figure is added with:
-
-![BioHackrXiv logo](./biohackrxiv.png)
- 
-Figure 1. The BioHackrXiv logo.
-
-# Other main section on your manuscript level 1
-
-Lists can be added with:
-
-1. Item 1
-2. Item 2
-
-
-# Results
-
-
-# Discussion
-
-...
+# Perspectives
 
 ## Acknowledgements
 This work was funded/supported by ELIXIR, the research infrastructure for life-science data.
