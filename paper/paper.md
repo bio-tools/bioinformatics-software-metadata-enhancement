@@ -27,11 +27,11 @@ authors:
     orcid: 
     affiliation:
   - name: Radka Svobodová
-    orcid: 
-    affiliation:
-  - name: Tomas Racek
-    orcid: 
-    affiliation:
+    orcid: 0000-0002-3840-8760
+    affiliation: 4, 5
+  - name: Tomáš Raček
+    orcid: 0000-0002-0296-2452
+    affiliation: 4, 5
   - name: Magnus Palmblad
     orcid: 0000-0002-5865-8994 
     affiliation: 3
@@ -48,6 +48,10 @@ affiliations:
     index: 2
   - name: Leiden University Medical Center, Postbus 9600, 2300 RC Leiden, The Netherlands
     index: 3
+  - name: CEITEC-Central European Institute of Technology, Masaryk University, Kamenice 5, 602 00, Brno, Czech Republic
+    index: 4
+  - name: National Centre for Biomolecular Research, Faculty of Science, Masaryk University, Kamenice 5, 625 00, Brno, Czech Republic
+    index: 5
 date: 9 November 2022
 cito-bibliography: paper.bib
 event: BH22EU
