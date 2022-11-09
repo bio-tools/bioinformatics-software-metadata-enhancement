@@ -27,11 +27,11 @@ authors:
     orcid: 
     affiliation:
   - name: Radka Svobodová
-    orcid: 
-    affiliation:
-  - name: Tomas Racek
-    orcid: 
-    affiliation:
+    orcid: 0000-0002-3840-8760
+    affiliation: 3, 4
+  - name: Tomáš Raček
+    orcid: 0000-0002-0296-2452
+    affiliation: 3, 4
   - name: Magnus Palmblad
     orcid: 
     affiliation:
@@ -46,6 +46,10 @@ affiliations:
     index: 1
   - name: Institut Pasteur, Université Paris Cité, Bioinformatics and Biostatistics Hub, F-75015 Paris, France
     index: 2
+  - name: CEITEC-Central European Institute of Technology, Masaryk University, Kamenice 5, 602 00, Brno, Czech Republic
+    index: 3
+  - name: National Centre for Biomolecular Research, Faculty of Science, Masaryk University, Kamenice 5, 625 00, Brno, Czech Republic
+    index: 4
 date: 9 November 2022
 cito-bibliography: paper.bib
 event: BH22EU
