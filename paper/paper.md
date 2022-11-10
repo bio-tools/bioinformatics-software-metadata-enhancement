@@ -81,7 +81,7 @@ We present here in a first section the technical solution constructed to enable 
 To facilitate the analysis of the data extracted from the Tools Ecosystem and other resources, we decided to make them available in a SPARQL endpoint, a solution that enables the querying of RDF resources. The various resources uploaded to the SPARQL endpoint include:
 - the EDAM ontology [@usesDataFrom:jon_ison_2020_3899895], available in its development version at https://raw.githubusercontent.com/edamontology/edamontology/main/EDAM_dev.owl.
 - the bio.tools contents [@usesDataFrom:Ison2019], available on the Tools Platform Ecosystem git repository as a Turtle-formatted BioSchemas file at https://raw.githubusercontent.com/bio-tools/content/master/datasets/bioschemas-dump.ttl.
-- (add something here about the WorkflowHub dump provided by Johan and Alban).
+- (add something here about the WorkflowHub [@usesDataFrom:carole_goble_2021_4605654] dump provided by Johan and Alban).
 --> GraphDB
 
 Jupyter notebooks
