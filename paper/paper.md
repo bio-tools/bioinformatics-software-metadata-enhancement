@@ -72,11 +72,21 @@ authors_short: Lucie Lamothe,  Jennifer Rugaard Bregndahl Jensen \emph{et al.}
 The Tools Ecosystem is a centralized repository for the open and transparent exchange of metadata about software tools and services in Bioinformatics and Life Sciences.
 It serves as the foundation for the sustainability of the diverse Tools Platform services, and for the interoperability between all these essential services (bio.tools [@usesDataFrom:Ison2019], BioContainers [@usesDataFrom:10.1093/bioinformatics/btx192], OpenEBench, Bioconda, WorkflowHub, usegalaxy.eu) and related resources outside of the ELIXIR Tools Platform (e.g. Bioschemas).
 
-The goal of this project is to cross-compare and analyze the metadata centralized in the Tools Ecosystem to maintain high quality descriptions, together with the EDAM ontology [@usesDataFrom:10.1093/bioinformatics/btt113] [@usesDataFrom:jon_ison_2020_3899895] linked used for many annotations of these resources. In order to achieve these goals we need to design tools and processes that detect curation bottlenecks, perform rigorous data cross-validation and generate detailed reporting about potential issues and actionable items.
+The goal of this project is to cross-compare and analyze the metadata centralized in the Tools Ecosystem to maintain high quality descriptions, together with the EDAM ontology [@usesDataFrom:10.1093/bioinformatics/btt113] linked used for many annotations of these resources. In order to achieve these goals we need to design tools and processes that detect curation bottlenecks, perform rigorous data cross-validation and generate detailed reporting about potential issues and actionable items.
 
 We present here in a first section the technical solution constructed to enable these analyses, and in the second section the first results obtained.
 
 # Technical architecture
+
+To facilitate the analysis of the data extracted from the Tools Ecosystem and other resources, we decided to make them available in a SPARQL endpoint, a solution that enables the querying of RDF resources. The various resources uploaded to the SPARQL endpoint include:
+- the EDAM ontology [@usesDataFrom:jon_ison_2020_3899895], available in its development version at https://raw.githubusercontent.com/edamontology/edamontology/main/EDAM_dev.owl.
+- the bio.tools contents [@usesDataFrom:Ison2019], available on the Tools Platform Ecosystem git repository as a Turtle-formatted BioSchemas file at https://raw.githubusercontent.com/bio-tools/content/master/datasets/bioschemas-dump.ttl.
+- (add something here about the WorkflowHub dump provided by Johan and Alban).
+--> GraphDB
+
+Jupyter notebooks
+SPARQL queries
+R plots
 
 # Tools Ecosystem metrics
 
@@ -99,6 +109,8 @@ _a plot of the proportion of validated complete function signatures in bio.tools
 _a listing of the top 10 most erroneous function signatures in bio.tools_
 
 # Perspectives
+
+# Code availability
 
 ## Acknowledgements
 This work was funded/supported by ELIXIR, the research infrastructure for life-science data.
