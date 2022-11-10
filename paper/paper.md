@@ -19,7 +19,7 @@ authors:
     affiliation:
   - name: Ove Johan Ragnar Gustafsson
     orcid: 0000-0002-2977-5032
-    affiliation: Australian BioCommons, University of Melbourne, Victoria, Australia
+    affiliation: 6
   - name: Alban Gaignard
     orcid: 
     affiliation:
@@ -52,6 +52,8 @@ affiliations:
     index: 4
   - name: National Centre for Biomolecular Research, Faculty of Science, Masaryk University, Kamenice 5, 625 00, Brno, Czech Republic
     index: 5
+  - name: Australian BioCommons, University of Melbourne, Victoria, Australia
+    index: 6
 date: 9 November 2022
 cito-bibliography: paper.bib
 event: BH22EU
