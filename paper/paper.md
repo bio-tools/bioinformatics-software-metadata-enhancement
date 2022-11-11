@@ -23,9 +23,9 @@ authors:
   - name: Alban Gaignard
     orcid: 
     affiliation:
-  - name: Dmitry Repchevski
-    orcid: 
-    affiliation:
+  - name: Dmitry Repchevsky
+    orcid: 0000-0001-6415-0532
+    affiliation: 8, 9
   - name: Radka Svobodová
     orcid: 0000-0002-3840-8760
     affiliation: 4, 5
@@ -56,6 +56,10 @@ affiliations:
     index: 6
   - name: National Life Science Supercomputing Center, Technical University of Denmark, Denmark
     index: 7
+  - name: Spanish National Bioinformatics Institute (INB-ISCIII), Barcelona, Spain
+    index: 8
+  - name: Barcelona Supercomputing Center (BSC), Plaça Eusebi Güell, 1-3 Barcelona, Spain
+    index: 9
 date: 9 November 2022
 cito-bibliography: paper.bib
 event: BH22EU
