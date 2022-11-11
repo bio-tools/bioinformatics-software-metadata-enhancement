@@ -2,7 +2,7 @@
 title: 'Scientific and technical enhancement of bioinformatics software metadata using the Tools Ecosystem open infrastructure'
 title_short: 'Enhancement of bioinformatics software metadata'
 tags:
-  - Software Metadata
+  - Software metadata
   - Ontologies
   - Workflows
   - Semantic Web
@@ -36,8 +36,8 @@ authors:
     orcid: 0000-0002-5865-8994 
     affiliation: 3
   - name: Matúš Kalaš
-    orcid: 
-    affiliation:
+    orcid: 0000-0002-1509-4981
+    affiliation: 10
   - name: Hervé Ménager
     orcid: 0000-0002-7552-1009
     affiliation: 1, 2
@@ -60,6 +60,8 @@ affiliations:
     index: 8
   - name: Barcelona Supercomputing Center (BSC), Plaça Eusebi Güell, 1-3 Barcelona, Spain
     index: 9
+  - name: Department of Informatics, University of Bergen, Norway
+    index: 10
 date: 9 November 2022
 cito-bibliography: paper.bib
 event: BH22EU
@@ -98,7 +100,7 @@ _a Venn diagram specifying which proportion of bio.tools is annotated with topic
 
 _an Upset diagram specifying which proportion of bio.tools is annotated with topics/operations/data/formats (can you do this with a Venn?)_
 
-## tool function signatures
+## Tool function signatures
 
 _a plot of the proportion of validated complete function signatures in bio.tools_
 
