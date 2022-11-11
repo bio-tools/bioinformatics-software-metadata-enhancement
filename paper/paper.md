@@ -56,7 +56,6 @@ affiliations:
     index: 6
   - name: National Life Science Supercomputing Center, Technical University of Denmark, Denmark
     index: 7
-
 date: 9 November 2022
 cito-bibliography: paper.bib
 event: BH22EU
