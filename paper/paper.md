@@ -15,7 +15,7 @@ authors:
     orcid: 
     affiliation: 
   - name: Hans Ienasescu
-    orcid: 
+    orcid: 0000-0001-9727-2544
     affiliation:
   - name: Ove Johan Ragnar Gustafsson
     orcid: 0000-0002-2977-5032
@@ -54,6 +54,9 @@ affiliations:
     index: 5
   - name: Australian BioCommons, University of Melbourne, Victoria, Australia
     index: 6
+  - name: National Life Science Supercomputing Center, Technical University of Denmark, Denmark
+    index: 7
+
 date: 9 November 2022
 cito-bibliography: paper.bib
 event: BH22EU
