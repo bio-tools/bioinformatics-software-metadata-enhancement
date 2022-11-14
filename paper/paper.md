@@ -32,6 +32,9 @@ authors:
   - name: Tomáš Raček
     orcid: 0000-0002-0296-2452
     affiliation: 4, 5
+  - name: Adrián Rošinec
+    orcid: 0000-0002-7748-5590
+    affiliation: 4, 5
   - name: Magnus Palmblad
     orcid: 0000-0002-5865-8994 
     affiliation: 3
